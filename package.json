@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "bun --watch server.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2"
+  }
+}
